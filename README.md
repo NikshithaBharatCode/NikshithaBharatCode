@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**NikshithaBharatCode/NikshithaBharatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Nikshitha Bharat Code 👋
+### 🚀 Small Town Girl | Big AI Dreams
+📍 From: Sircilla, Telangana 🇮🇳
+💭 Dream: To become an AI Engineer
+🌟 Motto: Sircilla nundi World varaku!
+---
+### 💻 My Journey
+- 🔭 I just launched my first website!
+- 🌱 Learning: Python, AI & GitHub
+- 👩‍💻 My Website: https://nikshithabharatcode.github.io/My_ai_project/
+### ✨ About Me
+> Nenu Sircilla ammayini. Na dream - AI tho andarikii help cheyadam.
+---
+⭐ From Sircilla with ❤️
